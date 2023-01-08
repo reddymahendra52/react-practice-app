@@ -1,0 +1,10 @@
+.listitem{
+    border: 1px solid black;
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+}
+
+.listcontent{
+    margin: 5px;
+}
